@@ -1,0 +1,41 @@
+.button {
+  background-color: #da23bb; /* couleur de fond */
+  border: none; /* pas de bordure */
+  color: white; /* couleur du texte */
+  padding: 15px 32px; /* espacement autour du texte */
+  text-align: center; /* alignement du texte */
+  text-decoration: none; /* pas de soulignement */
+  display: inline-block; /* affichage en ligne */
+  font-size: 16px; /* taille de la police */
+  margin: 4px 2px; /* marge autour du bouton */
+  cursor: pointer; /* curseur en pointeur */
+  border-radius: 12px; /* coins arrondis */
+  transition: background-color 0.3s ease; /* transition en douceur de la couleur de fond */
+  width: 100vh;
+}
+
+.submitButton{
+
+  margin-left: 2rem;
+  border-radius: 5px;
+  border: none;
+  height: 2rem;
+  width: 5rem;
+  margin-top: 3rem;
+  background-color: #d1d9db;
+  color: white;
+
+}
+
+.number{
+  text-align: center;
+}
+
+
+
+.titles{
+  align-items: center;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
